@@ -1,5 +1,5 @@
 # messengerRealm
-дипломная работа ВКР "Мессенджер на Realm"
+Дипломная работа ВКР "Мессенджер на Realm"
 
 ![Экран авторизации](https://user-images.githubusercontent.com/17139890/163708617-3a53aa05-b813-4618-bae1-56c07edd62a1.png)
 ![Экран чатов](https://user-images.githubusercontent.com/17139890/176749532-26b9eaf5-c280-40bb-9e57-ab34e9b39b91.png)
